@@ -1,0 +1,122 @@
+[
+    {
+      "id": "c76dd3f0-94e4-43b6-ad10-0e05a70f2225",
+      "titulo": "Impresionante mansion frente al mar con jardin privado",
+      "ubicacion": "Playa",
+      "tamano": "Grande",
+      "metrosCuadrados": 400,
+      "habitaciones": 6,
+      "banos": 5,
+      "precio": 1200000
+    },
+    {
+      "id": "3aa96c9b-4cef-4e2c-9c23-c86ef3fdc743",
+      "titulo": "Duplex moderno con balcon y vista al oceano",
+      "ubicacion": "Playa",
+      "tamano": "Mediana",
+      "metrosCuadrados": 160,
+      "habitaciones": 3,
+      "banos": 3,
+      "precio": 500000
+    },
+    {
+      "id": "88fa31b1-35d0-44d2-912e-3f462e1d6e6e",
+      "titulo": "Compacto estudio playero a pocos pasos de la arena",
+      "ubicacion": "Playa",
+      "tamano": "Pequena",
+      "metrosCuadrados": 60,
+      "habitaciones": 1,
+      "banos": 1,
+      "precio": 180000
+    },
+    {
+      "id": "f203bf50-0ced-47a0-89af-2327a65bc9af",
+      "titulo": "Casa de lujo con vistas panoramicas en la montana",
+      "ubicacion": "Montana",
+      "tamano": "Grande",
+      "metrosCuadrados": 350,
+      "habitaciones": 5,
+      "banos": 4,
+      "precio": 900000
+    },
+    {
+      "id": "b826695a-c067-49a8-a6be-b9ecab92435f",
+      "titulo": "Cabana acogedora con terraza y chimenea",
+      "ubicacion": "Montana",
+      "tamano": "Mediana",
+      "metrosCuadrados": 140,
+      "habitaciones": 2,
+      "banos": 2,
+      "precio": 350000
+    },
+    {
+      "id": "830c5ca5-3a9d-43a2-9ba7-901062551751",
+      "titulo": "Refugio compacto rodeado de naturaleza",
+      "ubicacion": "Montana",
+      "tamano": "Pequena",
+      "metrosCuadrados": 80,
+      "habitaciones": 1,
+      "banos": 1,
+      "precio": 150000
+    },
+    {
+      "id": "3f426e1a-1e79-406c-b612-ea8a2a82a84b",
+      "titulo": "Exclusivo penthouse con terraza en el centro de la ciudad",
+      "ubicacion": "Ciudad",
+      "tamano": "Grande",
+      "metrosCuadrados": 280,
+      "habitaciones": 4,
+      "banos": 4,
+      "precio": 950000
+    },
+    {
+      "id": "f6219c66-6eec-4a41-bcd0-c9a001dfaef8",
+      "titulo": "Apartamento reformado con diseno minimalista",
+      "ubicacion": "Ciudad",
+      "tamano": "Mediana",
+      "metrosCuadrados": 110,
+      "habitaciones": 2,
+      "banos": 2,
+      "precio": 400000
+    },
+    {
+      "id": "b835746a-3949-4897-8f87-a276bc5ed99c",
+      "titulo": "Estudio funcional en pleno casco urbano",
+      "ubicacion": "Ciudad",
+      "tamano": "Pequena",
+      "metrosCuadrados": 40,
+      "habitaciones": 1,
+      "banos": 1,
+      "precio": 130000
+    },
+    {
+      "id": "7666a86a-c9f6-4970-a4b5-75cb4110bacf",
+      "titulo": "Casa contemporanea con piscina frente a la playa",
+      "ubicacion": "Playa",
+      "tamano": "Grande",
+      "metrosCuadrados": 300,
+      "habitaciones": 5,
+      "banos": 4,
+      "precio": 850000
+    },
+    {
+      "id": "934c7559-59e4-4484-baa5-2dd7cdc14da3",
+      "titulo": "Chalet rustico con vistas al valle",
+      "ubicacion": "Montana",
+      "tamano": "Grande",
+      "metrosCuadrados": 320,
+      "habitaciones": 5,
+      "banos": 3,
+      "precio": 800000
+    },
+    {
+      "id": "8b14b94b-d3c8-452b-bcf8-30ffbfad46e9",
+      "titulo": "Pequeno loft industrial en barrio cultural",
+      "ubicacion": "Ciudad",
+      "tamano": "Pequena",
+      "metrosCuadrados": 55,
+      "habitaciones": 1,
+      "banos": 1,
+      "precio": 170000
+    }
+  ]

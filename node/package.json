@@ -1,0 +1,19 @@
+{
+  "name": "app-rag",
+  "version": "1.0.0",
+  "description": "una app de IA usando RAG",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos solis",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^4.1.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.78.1"
+  }
+}
